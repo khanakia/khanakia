@@ -4,11 +4,8 @@
 - 🌱 I’m currently learning Elixir/Erlang
 - 👯 I’m looking to collaborate on some data science projects.
 - 💬 Ask me about anything Golang, Javascript, Python, .NET, Linux Servers, Windows Servers
-- 📫 How to reach me: [Twitter @mrkhanakia](https://twitter.com/mrkhanakia)
+- 📫 How to reach me: [Twitter @amankhanakia](https://twitter.com/amankhanakia) [Linkedin @khanakia](https://www.linkedin.com/in/khanakia/)
 - ⚡ Fun fact: Sharing is caring.
-
-## My Blog
-https://medium.com/@khanakia
 
 ## My skills 🚀
 
