@@ -31,3 +31,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+##### PRODUCTS
+
+- [Disable Version Caching](https://wordpress.org/plugins/disable-version-caching/), Clear the css, js cache while you doing frontend development.
