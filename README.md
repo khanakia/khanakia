@@ -32,6 +32,15 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-##### PRODUCTS
+### Open Source Packages
+- [JS Dot](https://github.com/muftjs/dot/), dot makes it possible to transform javascript objects using dot notation or array of strings.
+- [JS Dailyfns](https://github.com/muftjs/dailyfns/), Everyday userful functions for your javascript project.
+- [JS Hook](https://github.com/muftjs/hook/), A Wordpress like hook and filter module in Javascript.
 
-- [Disable Version Caching](https://wordpress.org/plugins/disable-version-caching/), Clear the css, js cache while you doing frontend development.
+- [WP Disable Version Caching](https://wordpress.org/plugins/disable-version-caching/), Clear the css, js cache while you doing frontend development.
+- [WP Logger](https://wordpress.org/plugins/wp-logger-tenbulls/), Log all the request made to Wordpress Site.
+- [Revolution Slider WP CLI Search Replace](https://github.com/khanakiaphp/revslider-search-replace/), WP CLI Command to search replace the website URLs in the Revolution sliders.
+- [WP Logger](https://github.com/khanakiaphp/wp-list-missing-featured-images/), This plugin will simply list all the posts with missing featured image..
+- [WP List Missing Featured Images](https://github.com/khanakiaphp/wp-list-missing-featured-images/), Log all the request made to Wordpress Site.
+- [Wordpress Notification](https://github.com/khanakiaphp/wp_oye_notification/), Show Multiple Beautiful Notification Bar on your website on the top of the screen to your visitors.
+
